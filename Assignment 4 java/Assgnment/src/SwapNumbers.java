@@ -10,10 +10,6 @@ public class SwapNumbers {
 		a = a + b;
 		b = a - b;
 		a = a - b;
-		
-
-		
-
 
 	}
 

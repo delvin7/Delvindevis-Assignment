@@ -5,16 +5,6 @@ public class Section3 {
 		// TODO Auto-generated method stub
 		for (int i = 1; i <= 100; i++)
 		    System.out.print(i + " ");
-		
-		
-	
-		
-		
-		
-
-
-
-
 	}
 
 }

@@ -30,11 +30,6 @@ public class Section2 {
 		else if (m >= 60) System.out.println("C");
 		else System.out.println("Fail");
 
-
-
-
-
-
 	}
 
 }
